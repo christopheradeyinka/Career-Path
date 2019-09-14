@@ -1,0 +1,40 @@
+body{
+    font-size: 20px;
+    font-family: 'serif';
+}
+.careerlogo{
+    height: 35px;
+    margin-top: 13px;
+    margin-left: 13px;
+}
+nav ul li a{
+    color: #36728e;
+}
+.nav-wrapper{
+    background-color:#B7E3CC;
+}
+header{
+    background-image: url(../img/ajoke.jpg);
+    background-size: cover;
+    background-position: center;
+    min-height: 500px;
+}
+.hover:hover{
+    color:rgb(245, 11, 11) !important;
+}
+.icons:hover{
+    color:rgb(245, 11, 11) !important;
+}
+.carousel .carousel-item {
+    width:300px !important;}
+.me{
+    background-color:#e0f2f1 ; 
+}
+.page-footer{
+    background-color:#B7E3CC;
+}
+.page-title{
+    font-size:30px;
+    text-align: center;
+    margin-top:50px;
+}
